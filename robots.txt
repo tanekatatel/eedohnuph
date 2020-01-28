@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://gootohyoo.magicbridgedocs.photonrobot.com/sitemap.xml
